@@ -2,7 +2,7 @@
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 0
+        "patch": 1
       },
     "latestRevision": "2023-01-26T18:51:35.115Z",
     "registryIdentity": {
@@ -23,6 +23,9 @@
           "category": "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95",
           "symbol": "TEST",
           "decimals": 1
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/TEST.svg"
         }
       }]
     }

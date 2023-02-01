@@ -13,11 +13,27 @@
       }
   },
     "identities": {
+       "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95": [{
+        "name": "test tokens",
+        "description": "",
+        "time": {
+          "begin": "2023-01-26T18:51:35.115Z"
+        },
+        "token": {
+          "category": "c2fdafe61271d626671f07d2ad236c31e002c2797c205d00b8558f5742d5ef95",
+          "symbol": "TEST",
+          "decimals": 1
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/TEST.svg"
+        }
+      }],
+        
       "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc": [{
         "name": "Hero Token",
         "description": "Token for All Heroes",
         "time": {
-          "begin": "2023-01-26T18:51:35.115Z"
+          "begin": "2023-02-01T18:51:35.115Z"
         },
         "token": {
           "category": "1ccda51d041dc0876ae174104e43e095a5016975deb27219e5ec5b94f07f5bdc",
